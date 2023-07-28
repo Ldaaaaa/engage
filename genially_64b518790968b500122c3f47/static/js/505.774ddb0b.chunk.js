@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_genially_view_client=self.webpackChunk_genially_view_client||[]).push([[505],{76091:(e,i)=>{Object.defineProperty(i,"__esModule",{value:!0}),i.GeniallyScript=void 0;i.GeniallyScript=class{constructor(e,i){this.events={},this.script=e,this.geniallyEngine=i}}},2505:(e,i,l)=>{l.r(i),l.d(i,{default:()=>s});var t=l(76091);class s extends t.GeniallyScript{}}}]);
+//# sourceMappingURL=https://statics-view.genially.com/view/static/js/505.774ddb0b.chunk.js.map

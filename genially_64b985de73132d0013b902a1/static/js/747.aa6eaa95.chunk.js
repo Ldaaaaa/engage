@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_genially_view_client=self.webpackChunk_genially_view_client||[]).push([[747],{47747:(e,i,a)=>{e.exports=a.p+"static/media/DragAndDrop.js.3e50c5f44d9d96b146fb.map"}}]);
